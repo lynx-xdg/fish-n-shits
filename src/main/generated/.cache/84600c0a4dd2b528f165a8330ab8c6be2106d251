@@ -1,0 +1,13 @@
+// 1.21.5	-999999999-01-01T00:00:00	Fish n shits/FishnshitsRecipeProvider
+023d870362d8f52f2115da0b33aadc3de694f64c data/fish-n-shits/advancement/recipes/food/cooked_fillet_from_smelting_fillet.json
+507434d21c3a5eb83ec764af8d91092474f33392 data/fish-n-shits/advancement/recipes/food/sushi.json
+f65eafe85eaf1bb9ee33fe0141001da6ea5b11fc data/fish-n-shits/advancement/recipes/tools/diamond_knife.json
+c0916c4606bfe468179667205325f66a2bfc122e data/fish-n-shits/advancement/recipes/tools/gold_knife.json
+ddce0e09ac91cd481e9b7707474c4975e2be6aa8 data/fish-n-shits/advancement/recipes/tools/iron_knife.json
+40e4cac9de268e89b4104589517f242b641aa7e6 data/fish-n-shits/advancement/recipes/tools/stone_knife.json
+48fd3bdf49e1e61845039e28646436d1250d9175 data/fish-n-shits/recipe/cooked_fillet_from_smelting_fillet.json
+71898abc5fdda77b73bd1c6164c4d2ad89eca4da data/fish-n-shits/recipe/diamond_knife.json
+6269e83ca98b39e5f1609524c72e72e3f361691b data/fish-n-shits/recipe/gold_knife.json
+8630899cacda4ecabb08beca40b93f08e1d0fe6a data/fish-n-shits/recipe/iron_knife.json
+2fa02369d5f8358b011bdd12152df3d2cbe20608 data/fish-n-shits/recipe/stone_knife.json
+75dfab905deac156c6fdfff004715fe4bd0e5829 data/fish-n-shits/recipe/sushi.json

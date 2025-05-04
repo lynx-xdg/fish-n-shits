@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "fish-n-shits",
+	"version": "${version}",
+	"name": "Fish n shits",
+	"description": "A funny mod that makes fishing in minecraft more fun!",
+	"authors": [
+		"Lynx-xdg"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/fish-n-shits/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.lynxxdg.fishnshits.Fishnshits"
+		],
+		"client": [
+			"com.lynxxdg.fishnshits.FishnshitsClient"
+		],
+		"fabric-datagen": [
+			"com.lynxxdg.fishnshits.DataGenerator"
+		]
+	},
+	"mixins": [
+		"fish-n-shits.mixins.json",
+		{
+			"config": "fish-n-shits.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.13",
+		"minecraft": "~1.21.5",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

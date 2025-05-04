@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "f": "fish-n-shits:fillet",
+    "k": "minecraft:dried_kelp"
+  },
+  "pattern": [
+    "kfk"
+  ],
+  "result": {
+    "count": 4,
+    "id": "fish-n-shits:sushi"
+  }
+}

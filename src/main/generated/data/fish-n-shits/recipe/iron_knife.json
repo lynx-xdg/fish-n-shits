@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "i": "minecraft:iron_ingot",
+    "s": "minecraft:stick"
+  },
+  "pattern": [
+    "  i",
+    " i ",
+    "s  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "fish-n-shits:iron_knife"
+  }
+}

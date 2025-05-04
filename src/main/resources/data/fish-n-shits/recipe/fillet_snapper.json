@@ -1,0 +1,9 @@
+{
+  "type": "fish-n-shits:tool_use",
+  "item": "fish-n-shits:snapper",
+  "tool": "#fish-n-shits:knives",
+  "result": {
+    "id": "fish-n-shits:fillet",
+    "count": 2
+  }
+}

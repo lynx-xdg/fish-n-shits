@@ -1,0 +1,23 @@
+{
+  "item.fish-n-shits.stone_knife": "Stone Knife",
+  "item.fish-n-shits.iron_knife": "Iron Knife",
+  "item.fish-n-shits.gold_knife": "Gold Knife",
+  "item.fish-n-shits.diamond_knife": "Diamond Knife",
+
+  "item.fish-n-shits.fillet": "Fillet",
+  "item.fish-n-shits.cooked_fillet": "Cooked Fillet",
+
+  "item.fish-n-shits.trout": "Trout",
+  "item.fish-n-shits.bass": "Bass",
+  "item.fish-n-shits.carp": "Carp",
+  "item.fish-n-shits.bluegill": "Bluegill",
+
+  "item.fish-n-shits.tuna": "Tuna",
+  "item.fish-n-shits.mackerel": "Mackerel",
+  "item.fish-n-shits.snapper": "Snapper",
+  "item.fish-n-shits.flounder": "Flounder",
+
+  "itemGroup.fish-n-shits": "Fish 'n shits",
+
+  "tag.item.fish-n-shits.knives": "Knives"
+}
